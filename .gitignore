@@ -1,0 +1,16 @@
+# PyCharm-specific files
+.idea/
+
+# Virtual environment
+.venv/
+
+# System files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
